@@ -1,6 +1,11 @@
-# THIS IS THE DEVELOP BRANCH
+# QMK for Razer devices
 
-Warning- This is the `develop` branch of QMK Firmware. You may encounter broken code here. Please see [Breaking Changes](https://docs.qmk.fm/#/breaking_changes) for more information.
+This is a fork of QMK for Razer devices. Currently based on the `develop` branch, which may contain breaking changes.
+
+## Keyboards
+
+* [Razer BlackWidow 2019](keyboards/razer/blackwidow_2019)
+  * Upstream PRs: [#26327](https://github.com/qmk/qmk_firmware/pull/26327), [#26329](https://github.com/qmk/qmk_firmware/pull/26329)
 
 # Quantum Mechanical Keyboard Firmware
 
